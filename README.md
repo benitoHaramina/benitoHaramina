@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benitoHaramina
-- 👀 I’m interested in bash, Oracle DBA, Ansible
+- 👀 I’m interested in Oracle DBA, Ansible, bash
 - 📫 benitoharamina@gmx.net
 
 <!---
